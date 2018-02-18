@@ -1,0 +1,29 @@
+#gifImages{
+    text-align: center;
+}
+#topText{
+    font-size:larger;
+    color: white;
+    text-align: center;
+}
+#topText:hover{
+    color:teal;
+}
+body{
+    text-align-last: auto;
+}
+div{
+    width: 500px;
+    margin: 0 auto;
+    
+}
+hr{
+    width: 50%;
+}
+
+footer{
+    
+    text-align: center;
+    color: white;
+    
+}
